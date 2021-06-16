@@ -1,0 +1,27 @@
+C:\Users\Varvara_2\Favorites\Downloads\С#\Lab1\SysNumb\Sysn\bin\Debug\Sysn.exe
+C:\Users\Varvara_2\Favorites\Downloads\С#\Lab1\SysNumb\Sysn\bin\Debug\Sysn.pdb
+C:\Users\Varvara_2\Favorites\Downloads\С#\Lab1\SysNumb\Sysn\obj\Debug\Sysn.csprojAssemblyReference.cache
+C:\Users\Varvara_2\Favorites\Downloads\С#\Lab1\SysNumb\Sysn\obj\Debug\Sysn.Form1.resources
+C:\Users\Varvara_2\Favorites\Downloads\С#\Lab1\SysNumb\Sysn\obj\Debug\Sysn.Properties.Resources.resources
+C:\Users\Varvara_2\Favorites\Downloads\С#\Lab1\SysNumb\Sysn\obj\Debug\Sysn.csproj.GenerateResource.cache
+C:\Users\Varvara_2\Favorites\Downloads\С#\Lab1\SysNumb\Sysn\obj\Debug\Sysn.csproj.CoreCompileInputs.cache
+C:\Users\Varvara_2\Favorites\Downloads\С#\Lab1\SysNumb\Sysn\obj\Debug\Sysn.exe
+C:\Users\Varvara_2\Favorites\Downloads\С#\Lab1\SysNumb\Sysn\obj\Debug\Sysn.pdb
+C:\Users\Varvara_2\Desktop\С#\Lab1\SysNumb\Sysn\bin\Debug\Sysn.exe
+C:\Users\Varvara_2\Desktop\С#\Lab1\SysNumb\Sysn\bin\Debug\Sysn.pdb
+C:\Users\Varvara_2\Desktop\С#\Lab1\SysNumb\Sysn\obj\Debug\Sysn.csprojAssemblyReference.cache
+C:\Users\Varvara_2\Desktop\С#\Lab1\SysNumb\Sysn\obj\Debug\Sysn.Form1.resources
+C:\Users\Varvara_2\Desktop\С#\Lab1\SysNumb\Sysn\obj\Debug\Sysn.Properties.Resources.resources
+C:\Users\Varvara_2\Desktop\С#\Lab1\SysNumb\Sysn\obj\Debug\Sysn.csproj.GenerateResource.cache
+C:\Users\Varvara_2\Desktop\С#\Lab1\SysNumb\Sysn\obj\Debug\Sysn.csproj.CoreCompileInputs.cache
+C:\Users\Varvara_2\Desktop\С#\Lab1\SysNumb\Sysn\obj\Debug\Sysn.exe
+C:\Users\Varvara_2\Desktop\С#\Lab1\SysNumb\Sysn\obj\Debug\Sysn.pdb
+C:\Users\Varvara_2\Desktop\С#\System Numbers\Sysn\bin\Debug\Sysn.exe
+C:\Users\Varvara_2\Desktop\С#\System Numbers\Sysn\bin\Debug\Sysn.pdb
+C:\Users\Varvara_2\Desktop\С#\System Numbers\Sysn\obj\Debug\Sysn.csprojAssemblyReference.cache
+C:\Users\Varvara_2\Desktop\С#\System Numbers\Sysn\obj\Debug\Sysn.Form1.resources
+C:\Users\Varvara_2\Desktop\С#\System Numbers\Sysn\obj\Debug\Sysn.Properties.Resources.resources
+C:\Users\Varvara_2\Desktop\С#\System Numbers\Sysn\obj\Debug\Sysn.csproj.GenerateResource.cache
+C:\Users\Varvara_2\Desktop\С#\System Numbers\Sysn\obj\Debug\Sysn.csproj.CoreCompileInputs.cache
+C:\Users\Varvara_2\Desktop\С#\System Numbers\Sysn\obj\Debug\Sysn.exe
+C:\Users\Varvara_2\Desktop\С#\System Numbers\Sysn\obj\Debug\Sysn.pdb
